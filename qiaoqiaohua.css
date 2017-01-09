@@ -1,0 +1,15 @@
+body{
+	background-image: url(images/xdbj.jpg);
+	background-repeat: no-repeat;
+	background-repeat:no-repeat;
+    background-position:center;
+    background-attachment:fixed;
+    position:absolute;
+    border:15px dotted red;
+    margin:150px 230px 0px 230px;
+    font-family: comic Sans MS;
+}
+}
+#name{
+	font-weight: bold;
+}

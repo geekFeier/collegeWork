@@ -1,0 +1,62 @@
+
+body{
+	background-image: url(images/heartbj.gif);
+	background-repeat: repeat-y;
+	border:15px dotted #D17AE4;
+	text-align: center;
+}
+
+
+.fubiaoti{
+	font-size: 200%;
+	font-weight: bold;
+	font-family: comic Sans MS;
+	color:red;
+    margin-right: 10px;
+    
+}
+
+h1 img{
+	height: 70px;
+	width: 80px;
+}
+
+#photos img
+{   
+	position:relative;
+	height: 150px;
+	width: 135px;
+	border:2px dotted #D17AE4;
+
+}
+
+h2{
+	font-weight: bold;
+	font-size: 300%;
+    font-family:  comic Sans MS;
+    text-align: center;
+}	
+h3{
+	font-weight: bold;
+	font-size: 250%;
+    font-family:  comic Sans MS;
+}
+h4{
+	font-weight: bold;
+	font-size: 200%;
+    font-family:  comic Sans MS;
+}
+h5{
+	font-weight: bold;
+	font-size: 150%;
+    font-family:  comic Sans MS;
+}
+h6{
+	font-weight: bold;
+	font-size: 100%;
+    font-family:  comic Sans MS;
+}
+.xiaobiaoti{
+	border: 5px dotted #D17AE4;
+}
+

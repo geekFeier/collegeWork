@@ -1,0 +1,82 @@
+body{
+	background:#7a2122 url(images/body_bg.gif) repeat-x top;
+	color: #333;
+	font-family: Helvetica, sans-serif;
+}
+#outsides img{
+    margin-left:150px;
+}
+#danghang li{
+	
+	list-style-type: none;
+	display:inline;
+	float: right;
+	color: #fff;
+	padding: 10px;
+}
+#danghang{
+	margin-right: 250px;
+	margin-bottom:0px;
+}
+#beijing2{
+	clear: both;
+	margin:0 auto;
+	background:#fff;
+	border: 10px solid #5c0505;
+	width: 820px;
+}
+#header img{
+    border: 10px solid #ccc;
+    margin: 10px 10 0px 10px;
+}
+#header h1{
+	font-size: 120%;
+	font-weight:bold;
+	text-align:center;
+	background:url('images/tagline_bg.gif') repeat-x;
+	padding:8px 0px;
+
+}
+#left{
+	float: left;
+	width: 400px;
+}
+#left h2{
+	border-bottom: 1px solid #ccc;
+	margin-left: 25px;
+}
+#photos img{
+    border: 4px solid #ccc;
+    margin:8px;
+	}
+#photos{
+	margin:3px 3px 3px 15px;
+}
+#right{
+	float: right;
+	width: 400px;
+	padding: 10px 20px 10px 10px;
+}
+#right h3{
+    font-size: 150%;
+    font-weight: bold;
+}
+#right p{
+     font-size: 90%;
+}
+#right p a{
+	color: #000;
+
+}
+#footer{
+	clear: both;
+	text-align: center;
+	color: #777;
+	text-decoration: none;
+	font-size: 90%;
+	border-top:2px solid #ddd;
+	margin-bottom: 10px;
+}
+#end{
+	float: right;
+}

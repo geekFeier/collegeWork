@@ -1,0 +1,29 @@
+.logo{
+	float:right;
+}
+body{
+background:url(images/heartbj.gif);
+background-repeat:no-repeat;
+background-position:center;
+background-attachment:fixed;
+position:absolute;
+border:15px dotted pink;
+
+}
+.biaoti{
+	font-family: comic Sans MS;
+	font-size: 150%;
+	border:dotted;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: none;
+}

@@ -1,0 +1,23 @@
+body{
+	background-image: url(images/hello.jpg);
+	background-repeat: repeat-x;
+	border:15px dotted green;
+	
+}
+
+.text{
+	
+	font-weight: bold;
+    font-size:500%;
+    font-family:comic Sans MS;
+    color:green;
+    border: 5px dotted;
+}
+
+	a:link {
+	text-decoration: none;
+  }
+  #bottom{
+	position:absolute;
+	bottom: 0px; 
+	}

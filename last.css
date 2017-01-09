@@ -1,0 +1,22 @@
+body{
+	background-color:#000000;
+}
+h1 {
+    color:#E0DF75;
+    font-family: comic Sans MS;
+    font-weight: bold;
+    text-align: center;
+    border-collapse: 
+    }
+#text{
+	font-family: comic Sans MS;
+	text-align: center;
+	color: #E0DF75;
+	margin-bottom: 10px;
+}
+#end{
+    font-size: 200%;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+}
